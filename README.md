@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brendansaliba
-- 👀 I’m like rockets, planes, programming, AI, finance, geopolotics, and books!
+- 👀 I like rockets, planes, cars, programming, AI, finance, geopolotics, and books!
 
 <!---
 brendansaliba/brendansaliba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
